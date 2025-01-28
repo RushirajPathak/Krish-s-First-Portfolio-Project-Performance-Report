@@ -38,6 +38,3 @@ This dashboard provides valuable insights such as:
 
 ---
 
-If you have any questions or need any more help, feel free to reach out!
-
-#PowerBI #DAX #DataVisualization #BusinessIntelligence #Dashboard #GitHub
