@@ -27,29 +27,14 @@ This dashboard provides valuable insights such as:
 
 ## Screenshots of the Report
 
-### Dashboard Overview
-![Dashboard Overview](images/dashboard-overview.png)
-
-### Year-to-Date vs Prior YTD Comparison
-![YTD Comparison](images/ytd-comparison.png)
+### Quantity Comparison
+![Quantity Comparison](https://github.com/RushirajPathak/Krish-s-First-Portfolio-Project-Performance-Report/blob/main/Quantity2024.png)
 
 ### Gross Profit and Sales Visualization
-![Gross Profit and Sales](images/gross-profit-sales.png)
+![Gross Profit and Sales](https://github.com/RushirajPathak/Krish-s-First-Portfolio-Project-Performance-Report/blob/main/GrossProfit2024.png)
 
 ### Profitability Insights
-![Profitability Insights](images/profitability-insights.png)
-
-## How to Use
-1. Open the Power BI file (".pbix") in Power BI Desktop.
-2. Use the slicers to filter data by region, account, and time period.
-3. Explore the visualizations for insights into company performance.
-4. Review dynamic calculations like YTD vs Prior YTD and analyze trends.
-
-## Project Setup
-1. Clone or download this repository.
-2. Open the `.pbix` file using Power BI Desktop.
-3. Explore the interactive dashboard and review insights.
-4. Customize the report as needed for your organization’s specific data or metrics.
+![Profitability Insights](https://github.com/RushirajPathak/Krish-s-First-Portfolio-Project-Performance-Report/blob/main/Sales2024.png)
 
 ---
 
